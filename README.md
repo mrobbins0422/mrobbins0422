@@ -18,13 +18,13 @@
 ---
 
 ### :man_technologist: About Me :
-I am an aspiring Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Virginia.
+I am an aspiring Full Stack Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Virginia.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a freelance web developer while attending classes through Scrimba to earn my Front End Certification.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring PHP while learning REACT.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on Frontend Mentor and update my personal research site.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mark-robbins-416a4286)
 
